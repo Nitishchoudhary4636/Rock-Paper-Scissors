@@ -13,7 +13,6 @@ This is a simple **Rock Paper Scissors** game built using HTML, CSS, and JavaScr
 - [Technologies](#technologies)
 - [Setup](#setup)
 - [How to Play](#how-to-play)
-- [License](#license)
 
 ## Demo
 
@@ -51,11 +50,3 @@ Try the game live [here](#).
    - **Rock** beats **Scissors**
    - **Scissors** beats **Paper**
    - **Paper** beats **Rock**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify this as needed for your project!
