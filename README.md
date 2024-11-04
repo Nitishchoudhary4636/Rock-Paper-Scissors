@@ -16,7 +16,7 @@ This is a simple **Rock Paper Scissors** game built using HTML, CSS, and JavaScr
 
 ## Demo
 
-Try the game live [here](#).
+Try the game live [here](https://nitishchoudhary4636.github.io/Rock-Paper-Scissors/).
 
 ## Features
 
